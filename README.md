@@ -1,5 +1,5 @@
 
-# ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/nftscem
+# ⚠️ For help: https://t.me/nftscem & Store: https://nftscem.sellix.io
 
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template 
 
